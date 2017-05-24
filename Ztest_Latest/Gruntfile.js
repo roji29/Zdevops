@@ -52,8 +52,8 @@ module.exports = function(grunt) {
                       client : '200'
                 },
                 auth: {
-                    user: 'kasound',
-                    pwd: 'Mohith@123'
+                    user: 'rkhare',
+                    pwd: 'June@04'
                 }
             },
             upload_webapp: {
